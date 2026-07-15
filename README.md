@@ -21,9 +21,9 @@ A CNN-based image classification system using **ResNet50** to classify diseases 
 - Validation Accuracy: **±89%**
 
 ## Screenshoot
-<img width="598" height="690" alt="image" src="https://github.com/user-attachments/assets/211e9bd8-4b32-4331-a41d-5c1116244837" />
-<img width="546" height="616" alt="image" src="https://github.com/user-attachments/assets/750e274a-84ab-43a4-97d9-2ea294e9f2f0" />
-<img width="536" height="804" alt="image" src="https://github.com/user-attachments/assets/196ce0af-b50a-4d17-b9d5-796369779dcc" />
+<img width="1196" height="1380" alt="image" src="https://github.com/user-attachments/assets/dac8e49c-0896-41b1-b588-4a7fc592e08b" />
+<img width="1092" height="1232" alt="image" src="https://github.com/user-attachments/assets/3ed9f06d-1ecb-445d-a1c9-2bf4ba4ea767" />
+![Uploading image.png…]()
 
 ## Installation
 
